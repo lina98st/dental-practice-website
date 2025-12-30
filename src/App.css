@@ -40,6 +40,11 @@ nav a:hover {
   text-decoration: underline;
 }
 
+.carousel-images {
+    background-color: white;
+    border-radius: 2rem;
+}
+
 .footer {
     background-color: #f5f5f5;
     padding: 2rem;

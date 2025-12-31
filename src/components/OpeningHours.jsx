@@ -10,7 +10,7 @@ export default function OpeningHours() {
   ];
 
   return (
-    <section className="opening-hours">
+    <section id="hours" className="opening-hours">
       <div className="hours-container">
         <h2 className="section-title">Opening Hours</h2>
         <div className="hours-list">
